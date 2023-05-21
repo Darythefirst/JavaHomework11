@@ -1,3 +1,4 @@
+package ru.netology.JavaHomework11.MovieService;
 public class Movie {
     private int movieId; // идентиф.номер фильма
     private String movieName; //название фильма

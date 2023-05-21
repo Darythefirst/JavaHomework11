@@ -1,3 +1,4 @@
+package ru.netology.JavaHomework11.MovieService;
 public class MovieManager {
     private Movie[] movies = new Movie[0];
     private int limit;
